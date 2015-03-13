@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Pawan
+tagline:          ''
+description:      'Fairly approximate'
+url:              http://greycellofp.com
+baseurl:          /
+
+author:
+  name:           'Pawan Kumar'
+  url:            https://greycellofp.com
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+# github:			  
